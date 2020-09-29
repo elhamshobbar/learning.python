@@ -31,5 +31,5 @@ for listItem in Store.items():
 print ("--------------------------")
 isExist = "Carrot" in Store
 print (isExist)
- isExist = "Milk" in Store
-    print (isExist)
+isExist = "Milk" in Store
+print (isExist)
